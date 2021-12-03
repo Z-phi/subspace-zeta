@@ -5,7 +5,7 @@ body {
   font-family: Verdana, monospace;
   width: 640px;
   margin: auto;
-  background-image: url("images/other/sitetile.png");
+  background-image: url("images/other/sitetile.png") !important;
 }
 
 div {
@@ -13,7 +13,6 @@ div {
   padding: 0 20px;
   
 }
-
   
 .container {
   display: flex;
