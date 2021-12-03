@@ -249,7 +249,7 @@ var swap = function(forward){
             break;
         default: break;
     }
-  // debugger;
+// debugger;
 
     for(let i = 0; i < chosenArray.length; i++){
         var tableRowElement = document.createElement("tr");
